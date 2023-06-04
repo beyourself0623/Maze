@@ -1,0 +1,7 @@
+For the conditional compilation in makefile, I used 2 different main files, both files uses same main.h header, and make it switch with command line prompt
+
+Enter make: the arguments won't affect the darkness
+
+Enter make DARK=1: the arguments do affect the darkness
+
+I have 16 bytes memory leak from both 3D and 2D array even after I deallocation.
